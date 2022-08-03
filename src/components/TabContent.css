@@ -1,0 +1,20 @@
+.content-container{
+    margin-top: 50px;
+    float: none;
+}
+.content-img{
+    width: 200px;
+    border-radius: 15px;
+}
+p{
+    text-overflow: ellipsis;
+    margin: 7px;
+}
+.album-li{
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 17px;
+}
+.album-date{
+    font-size: 13px;
+}

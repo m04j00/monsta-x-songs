@@ -1,0 +1,24 @@
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+li{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    margin-right: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    display: inline-block;
+    border-bottom: 1px solid white;
+}
+
+.tab-container{
+    margin: 30px 200px;
+}
+.tab-li:hover{
+    border-bottom: 1px solid black;
+    transition-duration: 1s;
+}
